@@ -60,7 +60,7 @@
     .containerf{
         
         background-color: rgb(0, 0, 0);
-        height: 90vh;
+        height: 500px;
         width: 100vw;
         display: flex;
         flex-direction: row;
